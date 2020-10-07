@@ -1,4 +1,5 @@
 # TSFS12: Autonomous vehicles – planning, control, and learning systems
+[source](https://gitlab.liu.se/vehsys/tsfs12/-/tree/4c3a31dcabe85096c6aac2377d9350a430a048e7)
 
 This repository includes lecture notes, material for hand-in exercises, links to reading material, and other course material. Information here will be added during the course and you can always get the latest version of course material here.
 
